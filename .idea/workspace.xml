@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ece36fb6-795d-4514-ad7f-53fea8c5be6d" name="Default Changelist" comment="" />
+    <list default="true" id="ece36fb6-795d-4514-ad7f-53fea8c5be6d" name="Default Changelist" comment="Git-Demo test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +17,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="f5898f6d237361e619279eacee8316915b9558ce" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -56,10 +64,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="ApplicationStarter" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
@@ -77,6 +91,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.ApplicationStarter" />
+        <item itemvalue="Spring Boot.ApplicationStarter" />
         <item itemvalue="Spring Boot.ApplicationStarter" />
       </list>
     </recent_temporary>
@@ -103,57 +119,107 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587366652394</updated>
-      <workItem from="1587366655957" duration="593000" />
+      <workItem from="1587366655957" duration="2376000" />
     </task>
+    <task id="LOCAL-00001" summary="Git-Demo test">
+      <created>1587367475000</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587367475000</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Git-Demo test">
+      <created>1587368225469</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587368225469</updated>
+    </task>
+    <task id="LOCAL-00003" summary="新增测试">
+      <created>1587368315188</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587368315188</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Git-Demo test" />
+    <MESSAGE value="新增测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增测试" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="390" y="1" key="CommitChangelistDialog2" timestamp="1587367374537">
+    <state x="390" y="1" key="CommitChangelistDialog2" timestamp="1587369175446">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="390" y="1" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587367374537" />
+    <state x="390" y="1" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587369175446" />
     <state x="550" y="157" key="FileChooserDialogImpl" timestamp="1587367270099">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="550" y="157" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587367270099" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1587367374557">
+    <state x="606" y="310" width="324" height="266" key="Github.ShareDialog" timestamp="1587367672906">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587367374557" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1587367374557">
+    <state x="606" y="310" width="324" height="266" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1587367672906" />
+    <state width="1493" height="216" key="GridCell.Tab.0.bottom" timestamp="1587369039999">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587367374557" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1587367374557">
+    <state width="1493" height="216" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587369039999" />
+    <state width="1493" height="216" key="GridCell.Tab.0.center" timestamp="1587369039999">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587367374557" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1587367374557">
+    <state width="1493" height="216" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587369039999" />
+    <state width="1493" height="216" key="GridCell.Tab.0.left" timestamp="1587369039999">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587367374557" />
-    <state width="1493" height="210" key="GridCell.Tab.1.bottom" timestamp="1587367374557">
+    <state width="1493" height="216" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587369039999" />
+    <state width="1493" height="216" key="GridCell.Tab.0.right" timestamp="1587369039999">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587367374557" />
-    <state width="1493" height="210" key="GridCell.Tab.1.center" timestamp="1587367374557">
+    <state width="1493" height="216" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587369039999" />
+    <state width="1493" height="216" key="GridCell.Tab.1.bottom" timestamp="1587369039999">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587367374557" />
-    <state width="1493" height="210" key="GridCell.Tab.1.left" timestamp="1587367374557">
+    <state width="1493" height="216" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587369039999" />
+    <state width="1493" height="216" key="GridCell.Tab.1.center" timestamp="1587369039999">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587367374557" />
-    <state width="1493" height="210" key="GridCell.Tab.1.right" timestamp="1587367374557">
+    <state width="1493" height="216" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587369039999" />
+    <state width="1493" height="216" key="GridCell.Tab.1.left" timestamp="1587369039999">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587367374557" />
-    <state x="273" y="58" key="SettingsEditor" timestamp="1587367249013">
+    <state width="1493" height="216" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587369039999" />
+    <state width="1493" height="216" key="GridCell.Tab.1.right" timestamp="1587369039999">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="273" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587367249013" />
+    <state width="1493" height="216" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587369039999" />
+    <state x="273" y="58" key="SettingsEditor" timestamp="1587368649087">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="273" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587368649087" />
+    <state x="362" y="149" key="Vcs.Push.Dialog.v2" timestamp="1587368424009">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587368424009" />
+    <state x="489" y="214" key="git4idea.merge.GitPullDialog" timestamp="1587369244003">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="489" y="214" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1587369244003" />
   </component>
 </project>
